@@ -320,5 +320,14 @@
       "You need to merge 'feature-delete' second!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787557134.134668,
+    "completed_at": 1787557137.319733,
+    "comments": [
+      "You should be using squash merges for both 'feature-search' and 'feature-delete'"
+    ],
+    "status": "Incomplete"
   }
 ]
