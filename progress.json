@@ -329,5 +329,14 @@
       "You should be using squash merges for both 'feature-search' and 'feature-delete'"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "started_at": 1788158356.687774,
+    "completed_at": 1788158358.384526,
+    "comments": [
+      "Great work pushing the PQR branch to your fork!"
+    ],
+    "status": "Completed"
   }
 ]
